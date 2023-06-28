@@ -34,10 +34,10 @@ spec:
         rateLimit:
           requestsPerUnit: 5
           unit: MINUTE
-      - simpleDescriptors:
-          - key: userId
-          - key: usagePlan
-            value: platinum
-        rateLimit:
-          requestsPerUnit: 10
-          unit: MINUTE
+      # - simpleDescriptors:
+      #     - key: userId
+      #     - key: usagePlan
+      #       value: platinum
+      #   rateLimit:
+      #     requestsPerUnit: 10
+      #     unit: MINUTE
