@@ -39,5 +39,5 @@ spec:
           - key: usagePlan
             value: platinum
         rateLimit:
-          requestsPerUnit: 10
+          requestsPerUnit: 1000
           unit: MINUTE
