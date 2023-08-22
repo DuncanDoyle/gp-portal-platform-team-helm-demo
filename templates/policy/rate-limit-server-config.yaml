@@ -41,10 +41,3 @@ spec:
         rateLimit:
           requestsPerUnit: 4000
           unit: MINUTE
-      - simpleDescriptors:
-          - key: userId
-          - key: usagePlan
-            value: diamond
-        rateLimit:
-          requestsPerUnit: 10000
-          unit: MINUTE
