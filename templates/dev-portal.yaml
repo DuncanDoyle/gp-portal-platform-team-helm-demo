@@ -27,3 +27,5 @@ spec:
       description: "The best usage plan!"
     - name: platinum
       description: "The ultimate usage plan!"
+    - name: diamond
+      description: "The shining usage plan!"
